@@ -154,7 +154,7 @@
             "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
-          "thumbMoz": "https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif",
+          "thumbMoz": "https://od.lk/s/NDZfODEzNjQ0MzZf/cnatv.jpeg",
           "titleMoz": "CNA INTERNATIONAL"
         },
          {
