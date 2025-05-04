@@ -14,6 +14,24 @@
           "titleMoz": "TV5 MONDE"
         },
         {
+          "descriptionMoz": "Aljazeera est une chaine d'informations d'informations international et autres.",
+          "sourceMoz": [
+            "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
+          "titleMoz": "ALJAZEERA ENGLISH"
+        },
+        {
+          "descriptionMoz": "Aljazeera Arabic TV est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
+          "titleMoz": "ALJAZEERA ARABIC"
+        },
+        {
           "descriptionMoz": "France 24 (Francais) est une chaine francaise d'informations international",
           "sourceMoz": [
             "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8"
@@ -49,24 +67,6 @@
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzNf/france24Spanish.png",
           "titleMoz": "FRANCE 24 ES"
         }, 
-       {
-          "descriptionMoz": "Aljazeera est une chaine d'informations d'informations international et autres.",
-          "sourceMoz": [
-            "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
-          "titleMoz": "ALJAZEERA ENGLISH"
-        },
-        {
-          "descriptionMoz": "Aljazeera Arabic TV est une chaine d'informations international et autres.",
-          "sourceMoz": [
-            "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
-          "titleMoz": "ALJAZEERA ARABIC"
-        },
          {
           "descriptionMoz": "SABC NEWS infos est une francaise d'informations international et autres.",
           "sourceMoz": [
@@ -130,6 +130,15 @@
           "thumbMoz": "https://od.lk/s/NDZfNTk5Mjc2MjVf/brics.png",
           "titleMoz": "BRICS TV"
         },
+         {
+          "descriptionMoz": "Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.",
+          "sourceMoz": [
+            "https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "thumbMoz": "https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg",
+          "titleMoz": "VOX AFRICA TV"
+        },
         {
           "descriptionMoz": "ESPN NEWS est une francaise d'informations international et autres.",
           "sourceMoz": [
@@ -171,10 +180,28 @@
           "sourceMoz": [
             "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
           ],
-          "subtitleMoz": "By Channel",
+          "subtitleMoz": "All Channels",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
           "titleMoz": "BXL 1"
-        }  
+        },
+         {
+          "descriptionMoz": "Medi 1 tv africa est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "thumbMoz": "https://od.lk/s/NDZfODEzNjUyOTFf/medi1tv.png",
+          "titleMoz": "MEDI 1 TV"
+        },
+         {
+          "descriptionMoz": "Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "thumbMoz": "https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png",
+          "titleMoz": "BLOOMBERG TV"
+        }
       ]
     }
   ]
@@ -202,15 +229,6 @@
           "subtitleMoz": "By Channel",
           "thumbMoz": "https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif",
           "titleMoz": "MSNBC"
-        },
-        {
-          "descriptionMoz": "Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.",
-          "sourceMoz": [
-            "http://102.132.19.90:8000/play/a002/index.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg",
-          "titleMoz": "VOX AFRICA TV"
         },
         {
           "descriptionMoz": "BBC World News d'informations international et autres.",
@@ -265,15 +283,6 @@
           "subtitleMoz": "By Channel",
           "thumbMoz": "https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png",
           "titleMoz": "BBC NEWS"
-        },
-        {
-          "descriptionMoz": "Bloomberg TV Europe est une chaîne télévisée d'informations international et autres.",
-          "sourceMoz": [
-            "https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png",
-          "titleMoz": "BLOOMBERG TV"
         },
         {
           "descriptionMoz": "EURONEWS est une chaîne télévisée d'informations international et autres.",
