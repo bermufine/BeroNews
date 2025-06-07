@@ -5,6 +5,15 @@
       "name": "Movies",
       "videos": [
         {
+          "descriptionMoz": "France Infos est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "http://145.239.5.177/306/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDM5OTNf/franceinfo.png",
+          "titleMoz": "FRANCE INFOS"
+        },
+        {
           "descriptionMoz": "TV5 est une chaine francaise d'informations international et autres.",
           "sourceMoz": [
             "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
@@ -12,6 +21,15 @@
           "subtitleMoz": "All Channel",
           "thumbMoz": "https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
           "titleMoz": "TV5 MONDE"
+        },
+         {
+          "descriptionMoz": "La Une TV est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "http://145.239.5.177/329/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDQwNDZf/laune.jpeg",
+          "titleMoz": "LA UNE HD"
         },
         {
           "descriptionMoz": "Aljazeera est une chaine d'informations d'informations international et autres.",
