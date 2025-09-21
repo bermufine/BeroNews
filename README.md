@@ -10,6 +10,7 @@
             "http://145.239.5.177/306/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
+          "numberMoz": "632",
           "thumbMoz": "https://od.lk/s/NDZfODIxNDM5OTNf/franceinfo.png",
           "titleMoz": "FRANCE INFOS"
         },
@@ -19,6 +20,7 @@
             "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
           ],
           "subtitleMoz": "All Channel",
+          "numberMoz": "633",
           "thumbMoz": "https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
           "titleMoz": "TV5 MONDE"
         },
@@ -28,6 +30,7 @@
             "http://145.239.5.177/329/index.m3u8"
           ],
           "subtitleMoz": "All Channel",
+          "numberMoz": "634",
           "thumbMoz": "https://od.lk/s/NDZfODIxNDQwNDZf/laune.jpeg",
           "titleMoz": "LA UNE HD"
         },
@@ -37,6 +40,7 @@
             "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "635",
           "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
           "titleMoz": "ALJAZEERA ENGLISH"
         },
@@ -46,6 +50,7 @@
             "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "636",
           "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
           "titleMoz": "ALJAZEERA ARABIC"
         },
@@ -55,6 +60,7 @@
             "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "637",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzJf/france24Francais.png",
           "titleMoz": "FRANCE 24 FR"
         },
@@ -64,6 +70,7 @@
             "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "638",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzFf/france24English.jpg",
           "titleMoz": "FRANCE 24 EN"
         },
@@ -73,6 +80,7 @@
             "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "639",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzBf/france24Arabic.png",
           "titleMoz": "FRANCE 24 AR"
         },
@@ -82,6 +90,7 @@
             "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "640",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzNf/france24Spanish.png",
           "titleMoz": "FRANCE 24 ES"
         }, 
@@ -91,6 +100,7 @@
             "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "641",
           "thumbMoz": "https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg",
           "titleMoz": "SABC NEWS"
         },
@@ -100,6 +110,7 @@
             "https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
           ],
           "subtitleMoz": "All Channel",
+          "numberMoz": "642",
           "thumbMoz": "https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg",
           "titleMoz": "AFRICA 24"
         },
@@ -109,6 +120,7 @@
             "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "643",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQzMDdf/cgtnNews.jpeg",
           "titleMoz": "CGTN NEWS"
         },
@@ -118,6 +130,7 @@
             "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "644",
           "thumbMoz": "https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg",
           "titleMoz": "DW TV"
         },
@@ -127,6 +140,7 @@
             "http://69.64.57.208/russiatoday/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "645",
           "thumbMoz": "https://od.lk/s/M18yOTQwNjUwNDZf/russiatoday.png",
           "titleMoz": "RT ENGLISH"
         },
@@ -136,6 +150,7 @@
             "http://69.64.57.208/rtfrance/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "646",
           "thumbMoz": "https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png",
           "titleMoz": "RT FRANCE"
         },
@@ -145,6 +160,7 @@
             "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "647",
           "thumbMoz": "https://od.lk/s/NDZfNTk5Mjc2MjVf/brics.png",
           "titleMoz": "BRICS TV"
         },
@@ -154,6 +170,7 @@
             "https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "648",
           "thumbMoz": "https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg",
           "titleMoz": "VOX AFRICA TV"
         },
@@ -163,6 +180,7 @@
             "http://38.96.178.201/live/ESPNews/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "649",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQzMjVf/espnNews.jpeg",
           "titleMoz": "ESPN NEWS"
         },
@@ -172,6 +190,7 @@
             "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "650",
           "thumbMoz": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
           "titleMoz": "FOX NEWS"
         },
@@ -181,6 +200,7 @@
             "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "651",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQ0MzZf/cnatv.jpeg",
           "titleMoz": "CNA INTERNATIONAL"
         },
@@ -190,6 +210,7 @@
             "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "652",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQzNDJf/cnbc.jpeg",
           "titleMoz": "CNBC TV"
         },
@@ -199,6 +220,7 @@
             "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "653",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
           "titleMoz": "BXL 1"
         },
@@ -208,6 +230,7 @@
             "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "654",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjUyOTFf/medi1tv.png",
           "titleMoz": "MEDI 1 TV"
         },
@@ -217,6 +240,7 @@
             "https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8"
           ],
           "subtitleMoz": "All Channels",
+          "numberMoz": "655",
           "thumbMoz": "https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png",
           "titleMoz": "BLOOMBERG TV"
         }
