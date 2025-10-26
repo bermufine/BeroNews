@@ -4,6 +4,46 @@
     {
       "name": "Movies",
       "videos": [
+      {
+          "descriptionMoz": "i24 News Francais est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "622",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
+          "titleMoz": "i24 NEWS FR"
+        },
+        {
+          "descriptionMoz": "i24 News Arabe est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "623",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjFf/i24Arabe.PNG",
+          "titleMoz": "i24 NEWS AR"
+        },
+        {
+          "descriptionMoz": "i24 News English est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "623",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjNf/i24English.PNG",
+          "titleMoz": "i24 NEWS EN"
+        },
+         {
+          "descriptionMoz": "i24 News Hebreux est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "623",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njhf/i24Hebreux.PNG",
+          "titleMoz": "i24 NEWS HB"
+        },
         {
           "descriptionMoz": "France Infos est une chaine francaise d'informations international et autres.",
           "sourceMoz": [
