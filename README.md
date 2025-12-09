@@ -84,6 +84,16 @@
           "thumbMoz": "https://od.lk/s/NDZfODIxNDQwNDZf/laune.jpeg",
           "titleMoz": "LA UNE HD"
         },
+          {
+          "descriptionMoz": "Afro News TV est une chaine Africaine d'informations et international",
+          "sourceMoz": [
+            "https://video1.getstreamhosting.com:1936/8064/live/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "636",
+          "thumbMoz": "https://od.lk/s/NDZfODk0MjUyNjBf/afronewstv.jpg",
+          "titleMoz": "AFRONEWS"
+        },
         {
           "descriptionMoz": "Aljazeera est une chaine d'informations d'informations international et autres.",
           "sourceMoz": [
@@ -293,6 +303,16 @@
           "numberMoz": "628",
           "thumbMoz": "https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png",
           "titleMoz": "BLOOMBERG TV"
+        },
+         {
+          "descriptionMoz": "i24 News Francais est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "600",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
+          "titleMoz": "i24 NEWS FR"
         }
       ]
     }
