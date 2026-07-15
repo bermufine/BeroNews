@@ -4,117 +4,7 @@
     {
       "name": "Movies",
       "videos": [
-      {
-          "descriptionMoz": "i24 News Francais est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "600",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
-          "titleMoz": "i24 NEWS FR"
-        },
-        {
-          "descriptionMoz": "i24 News Arabe est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "601",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjFf/i24Arabe.PNG",
-          "titleMoz": "i24 NEWS AR"
-        },
-        {
-          "descriptionMoz": "i24 News English est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "602",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjNf/i24English.PNG",
-          "titleMoz": "i24 NEWS EN"
-        },
-         {
-          "descriptionMoz": "i24 News Hebreux est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "603",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njhf/i24Hebreux.PNG",
-          "titleMoz": "i24 NEWS HB"
-        },
-        {
-          "descriptionMoz": "France Infos est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "http://145.239.5.177/306/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "604",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDM5OTNf/franceinfo.png",
-          "titleMoz": "FRANCE INFOS"
-        },
-        {
-          "descriptionMoz": "TV5 est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "605",
-          "thumbMoz": "https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
-          "titleMoz": "TV5 MONDE"
-        },
-        {
-          "descriptionMoz": "AFRIQUE54 TV Avec pour devise : Citoyenneté - Impartialité – Liberté, Afrique54 TV est un média en ligne international diffusé en continu 24h/24 et 7j/7, qui se distingue par la qualité et l'équilibre de ses informations. Accessible en français et en anglais, la chaîne propose des contenus texte, vidéo, audio et multimédias couvrant les grandes thématiques africaines et mondiales. Lancé en 2017 consultable sur www.afrique54.net, le média citoyen panafricain repose sur des principes éditoriaux forts : efficacité, transparence, équilibre, et objectivité.  Afrique54 donne la parole aux acteurs africains et à la diaspora, en promouvant des valeurs positives dans un cadre éthique. Le média vise une portée mondiale, avec des objectifs de toucher plusieurs centaines de milliers foyers et plusieurs millions de pages vues par mois.  Afrique54 TV a déjà dépassé le seuil moyen de 100 mille téléspectateurs en ligne à travers le monde. Email : info@afrique54.net",
-          "sourceMoz": [
-            "https://video1.getstreamhosting.com:1936/8318/live/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "606",
-          "thumbMoz": "https://od.lk/s/NDZfODkwOTYxMjNf/afrique54.jpg",
-          "titleMoz": "AFRIQUE54 TV"
-        },
-         {
-          "descriptionMoz": "La Une TV est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "http://145.239.5.177/329/index.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "607",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDQwNDZf/laune.jpeg",
-          "titleMoz": "LA UNE HD"
-        },
           {
-          "descriptionMoz": "Afro News TV est une chaine Africaine d'informations et international",
-          "sourceMoz": [
-            "https://video1.getstreamhosting.com:1936/8064/live/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "636",
-          "thumbMoz": "https://od.lk/s/NDZfODk0MjUyNjBf/afronewstv.jpg",
-          "titleMoz": "AFRONEWS"
-        },
-        {
-          "descriptionMoz": "Aljazeera est une chaine d'informations d'informations international et autres.",
-          "sourceMoz": [
-            "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "608",
-          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
-          "titleMoz": "ALJAZEERA ENGLISH"
-        },
-        {
-          "descriptionMoz": "Aljazeera Arabic TV est une chaine d'informations international et autres.",
-          "sourceMoz": [
-            "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "609",
-          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
-          "titleMoz": "ALJAZEERA ARABIC"
-        },
-        {
           "descriptionMoz": "France 24 (Francais) est une chaine francaise d'informations international",
           "sourceMoz": [
             "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8"
@@ -153,8 +43,58 @@
           "numberMoz": "613",
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzNf/france24Spanish.png",
           "titleMoz": "FRANCE 24 ES"
-        }, 
+      }, 
+      {
+          "descriptionMoz": "i24 News Francais est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://i24newsfrench-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "600",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
+          "titleMoz": "i24 NEWS FR"
+        },
+        {
+          "descriptionMoz": "i24 News Arabe est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "601",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjFf/i24Arabe.PNG",
+          "titleMoz": "i24 NEWS AR"
+        },
+        {
+          "descriptionMoz": "i24 News English est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://i24newsenglish-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "602",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjNf/i24English.PNG",
+          "titleMoz": "i24 NEWS EN"
+        },
          {
+          "descriptionMoz": "i24 News Hebreux est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "603",
+          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njhf/i24Hebreux.PNG",
+          "titleMoz": "i24 NEWS HB"
+        },
+        {
+          "descriptionMoz": "France Infos est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "http://145.239.5.177/306/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "604",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDM5OTNf/franceinfo.png",
+          "titleMoz": "FRANCE INFOS"
+        },
+        {
           "descriptionMoz": "SABC NEWS infos est une francaise d'informations international et autres.",
           "sourceMoz": [
             "https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8"
@@ -164,25 +104,195 @@
           "thumbMoz": "https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg",
           "titleMoz": "SABC NEWS"
         },
-         {
-          "descriptionMoz": "Africa 24 est une chaîne télévisée d'informations international et autres.",
+        {
+          "descriptionMoz": "Euronews est une chaine d'informations international et autres.",
           "sourceMoz": [
-            "https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "615",
-          "thumbMoz": "https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg",
-          "titleMoz": "AFRICA 24"
-        },
-         {
-          "descriptionMoz": "cgtn News TV Europe est une chaîne télévisée d'informations international et autres.",
-          "sourceMoz": [
-            "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
+            "https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8"
           ],
           "subtitleMoz": "All Channels",
-          "numberMoz": "616",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQzMDdf/cgtnNews.jpeg",
-          "titleMoz": "CGTN NEWS"
+          "numberMoz": "614",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY0MDJf",
+          "titleMoz": "EURONEWS FR"
+        },
+        {
+          "descriptionMoz": "Euronews est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "614",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY0MDJf",
+          "titleMoz": "EURONEWS EN"
+        },
+        {
+          "descriptionMoz": "Euronews est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "614",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY0MDJf",
+          "titleMoz": "EURONEWS GERM"
+        },
+        {
+          "descriptionMoz": "Euronews est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "614",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY0MDJf",
+          "titleMoz": "EURONEWS ITA"
+        },
+        {
+          "descriptionMoz": "Euronews est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "614",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY0MDJf",
+          "titleMoz": "EURONEWS PORT"
+        },
+        {
+          "descriptionMoz": "Euronews est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "614",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY0MDJf",
+          "titleMoz": "EURONEWS RUS"
+        },
+        {
+          "descriptionMoz": "Euronews est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "614",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY0MDJf",
+          "titleMoz": "EURONEWS SPA"
+        }, 
+        {
+          "descriptionMoz": "TV5 est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "605",
+          "thumbMoz": "https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
+          "titleMoz": "TV5 MONDE INFO"
+        },
+        {
+          "descriptionMoz": "TV5 est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "605",
+          "thumbMoz": "https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
+          "titleMoz": "TV5 MONDE EUR"
+        },
+        {
+          "descriptionMoz": "TV5 est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "http://5.9.121.178/tv5monde/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "605",
+          "thumbMoz": "https://od.lk/s/M18yODQzMDIzMjZf/tv5monde.jpg",
+          "titleMoz": "TV5 MONDE AFR"
+        },
+        {
+          "descriptionMoz": "La Une TV est une chaine francaise d'informations international et autres.",
+          "sourceMoz": [
+            "http://145.239.5.177/329/index.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "607",
+          "thumbMoz": "https://od.lk/s/NDZfODIxNDQwNDZf/laune.jpeg",
+          "titleMoz": "LA UNE HD"
+        },
+        {
+          "descriptionMoz": "BXL 1 est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "626",
+          "thumbMoz": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
+          "titleMoz": "BXL 1"
+        },
+        {
+          "descriptionMoz": "Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.",
+          "sourceMoz": [
+            "https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "621",
+          "thumbMoz": "https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg",
+          "titleMoz": "VOX AFRICA TV"
+        },
+        {
+          "descriptionMoz": "BRICS TV est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "620",
+          "thumbMoz": "https://od.lk/s/NDZfNTk5Mjc2MjVf/brics.png",
+          "titleMoz": "BRICS TV"
+        },
+        {
+          "descriptionMoz": "BFM2 TV est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "620",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY1NjRf",
+          "titleMoz": "BFM2 TV"
+        },
+        {
+          "descriptionMoz": "BFM TV est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "620",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY1NjNf",
+          "titleMoz": "BFM TV"
+        },
+        {
+          "descriptionMoz": "Africa News  TV est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "620",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY1OTBf",
+          "titleMoz": "AFRICANEWS FR"
+        },
+        {
+          "descriptionMoz": "Africa News  TV est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "620",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY1ODlf",
+          "titleMoz": "AFRICANEWS EN"
+        },
+        {
+          "descriptionMoz": "CNA TV est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "624",
+          "thumbMoz": "https://od.lk/s/NDZfODEzNjQ0MzZf/cnatv.jpeg",
+          "titleMoz": "CNA INTERNATIONAL"
         },
         {
           "descriptionMoz": "DW TV est une chaîne de Télévision généraliste bilingue anglais et français et d'information vers le monde. Elle est destinée à la promotion des valeurs économiques et sociales mondiaux.",
@@ -194,6 +304,87 @@
           "thumbMoz": "https://od.lk/s/M18yODY2NTg2MTZf/dw.jpeg",
           "titleMoz": "DW TV"
         },
+        {
+          "descriptionMoz": "Aljazeera Arabic TV est une chaine d'informations international et autres.",
+          "sourceMoz": [
+            "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "609",
+          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
+          "titleMoz": "ALJAZEERA ARABIC"
+        },
+        {
+          "descriptionMoz": "Africa 24 est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://edge15.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "615",
+          "thumbMoz": "https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg",
+          "titleMoz": "AFRICA24 FR"
+        },
+        {
+          "descriptionMoz": "Africa 24 est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "615",
+          "thumbMoz": "https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg",
+          "titleMoz": "AFRICA24 EN"
+        },
+        {
+          "descriptionMoz": "Afro News TV est une chaine Africaine d'informations et international",
+          "sourceMoz": [
+            "https://video1.getstreamhosting.com:1936/8064/live/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "636",
+          "thumbMoz": "https://od.lk/s/NDZfODk0MjUyNjBf/afronewstv.jpg",
+          "titleMoz": "AFRONEWS"
+        }
+      ]
+    }
+  ]
+}
+
+        
+        {
+          "descriptionMoz": "AFRIQUE54 TV Avec pour devise : Citoyenneté - Impartialité – Liberté, Afrique54 TV est un média en ligne international diffusé en continu 24h/24 et 7j/7, qui se distingue par la qualité et l'équilibre de ses informations. Accessible en français et en anglais, la chaîne propose des contenus texte, vidéo, audio et multimédias couvrant les grandes thématiques africaines et mondiales. Lancé en 2017 consultable sur www.afrique54.net, le média citoyen panafricain repose sur des principes éditoriaux forts : efficacité, transparence, équilibre, et objectivité.  Afrique54 donne la parole aux acteurs africains et à la diaspora, en promouvant des valeurs positives dans un cadre éthique. Le média vise une portée mondiale, avec des objectifs de toucher plusieurs centaines de milliers foyers et plusieurs millions de pages vues par mois.  Afrique54 TV a déjà dépassé le seuil moyen de 100 mille téléspectateurs en ligne à travers le monde. Email : info@afrique54.net",
+          "sourceMoz": [
+            "https://video1.getstreamhosting.com:1936/8318/live/playlist.m3u8"
+          ],
+          "subtitleMoz": "All Channel",
+          "numberMoz": "606",
+          "thumbMoz": "https://od.lk/s/NDZfODkwOTYxMjNf/afrique54.jpg",
+          "titleMoz": "AFRIQUE54 TV"
+        },
+         
+          
+        {
+          "descriptionMoz": "Aljazeera est une chaine d'informations d'informations international et autres.",
+          "sourceMoz": [
+            "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "608",
+          "thumbMoz": "https://od.lk/s/M18yODEyMjUzMDBf/aljazeera.png",
+          "titleMoz": "ALJAZEERA ENGLISH"
+        },
+       
+       
+         {
+          "descriptionMoz": "cgtn News TV Europe est une chaîne télévisée d'informations international et autres.",
+          "sourceMoz": [
+            "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
+          ],
+          "subtitleMoz": "All Channels",
+          "numberMoz": "616",
+          "thumbMoz": "https://od.lk/s/NDZfODEzNjQzMDdf/cgtnNews.jpeg",
+          "titleMoz": "CGTN NEWS"
+        },
+       
          {
           "descriptionMoz": "Rassia Today est une chaîne télévisée d'informations international et autres.",
           "sourceMoz": [
@@ -214,26 +405,8 @@
           "thumbMoz": "https://od.lk/s/M18yOTQwNjUwNDVf/rtfrance.png",
           "titleMoz": "RT FRANCE"
         },
-        {
-          "descriptionMoz": "BRICS TV est une chaîne télévisée d'informations international et autres.",
-          "sourceMoz": [
-            "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "620",
-          "thumbMoz": "https://od.lk/s/NDZfNTk5Mjc2MjVf/brics.png",
-          "titleMoz": "BRICS TV"
-        },
-         {
-          "descriptionMoz": "Vox Africa TV est une chaine panafricanisme d'informations afrique, international et autres.",
-          "sourceMoz": [
-            "https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "621",
-          "thumbMoz": "https://od.lk/s/M18yNTQyMjY1NDFf/VOX_AFRICA.jpg",
-          "titleMoz": "VOX AFRICA TV"
-        },
+        
+         
         {
           "descriptionMoz": "ESPN NEWS est une francaise d'informations international et autres.",
           "sourceMoz": [
@@ -254,16 +427,7 @@
           "thumbMoz": "https://od.lk/s/M18yODMwNzQ1MDlf/foxnews.png",
           "titleMoz": "FOX NEWS"
         },
-        {
-          "descriptionMoz": "CNA TV est une chaîne télévisée d'informations international et autres.",
-          "sourceMoz": [
-            "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "624",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQ0MzZf/cnatv.jpeg",
-          "titleMoz": "CNA INTERNATIONAL"
-        },
+        
          {
           "descriptionMoz": "CNBC est une chaîne télévisée d'informations international et autres.",
           "sourceMoz": [
@@ -274,16 +438,7 @@
           "thumbMoz": "https://od.lk/s/NDZfODEzNjQzNDJf/cnbc.jpeg",
           "titleMoz": "CNBC TV"
         },
-       {
-          "descriptionMoz": "BXL 1 est une chaîne télévisée d'informations international et autres.",
-          "sourceMoz": [
-            "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
-          ],
-          "subtitleMoz": "All Channels",
-          "numberMoz": "626",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
-          "titleMoz": "BXL 1"
-        },
+       
          {
           "descriptionMoz": "Medi 1 tv africa est une chaîne télévisée d'informations international et autres.",
           "sourceMoz": [
@@ -304,20 +459,8 @@
           "thumbMoz": "https://od.lk/s/M18yODA3Nzg3Mjhf/bloomberg.png",
           "titleMoz": "BLOOMBERG TV"
         },
-         {
-          "descriptionMoz": "i24 News Francais est une chaine francaise d'informations international et autres.",
-          "sourceMoz": [
-            "https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/profile_0/chunklist.m3u8"
-          ],
-          "subtitleMoz": "All Channel",
-          "numberMoz": "600",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
-          "titleMoz": "i24 NEWS FR"
-        }
-      ]
-    }
-  ]
-}
+      
+  
 
 
 
