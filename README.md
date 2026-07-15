@@ -241,7 +241,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "620",
-          "thumbMoz": "https://od.lk/s/NDZfNTk5Mjc2MjVf/brics.png",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY5NDFf",
           "titleMoz": "BRICS TV"
         },
         {
@@ -251,7 +251,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "620",
-          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY1NjRf",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY5NDBf",
           "titleMoz": "BFM2 TV"
         },
         {
@@ -261,7 +261,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "620",
-          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY1NjNf",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY5Mzlf",
           "titleMoz": "BFM TV"
         },
         {
@@ -271,7 +271,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "620",
-          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY1OTBf",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY5Mzhf",
           "titleMoz": "AFRICANEWS FR"
         },
         {
@@ -291,7 +291,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "624",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQ0MzZf/cnatv.jpeg",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY5Mzdf",
           "titleMoz": "CNA INTERNATIONAL"
         },
         {
