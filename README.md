@@ -11,7 +11,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "610",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzJf/france24Francais.png",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY3MTNf",
           "titleMoz": "FRANCE 24 FR"
         },
         {
@@ -21,7 +21,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "611",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzFf/france24English.jpg",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY3MTVf",
           "titleMoz": "FRANCE 24 EN"
         },
         {
@@ -31,7 +31,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "612",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzBf/france24Arabic.png",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY3MTRf",
           "titleMoz": "FRANCE 24 AR"
         },
         {
@@ -41,7 +41,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "613",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQwMzNf/france24Spanish.png",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY3MjBf",
           "titleMoz": "FRANCE 24 ES"
       }, 
       {
@@ -51,7 +51,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "600",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njdf/i24Francais.PNG",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY4NzRf",
           "titleMoz": "i24 NEWS FR"
         },
         {
@@ -61,7 +61,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "601",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjFf/i24Arabe.PNG",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY4NzJf",
           "titleMoz": "i24 NEWS AR"
         },
         {
@@ -71,7 +71,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "602",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5NjNf/i24English.PNG",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY4NzNf",
           "titleMoz": "i24 NEWS EN"
         },
          {
@@ -81,7 +81,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "603",
-          "thumbMoz": "https://od.lk/s/NDZfODc0MjY5Njhf/i24Hebreux.PNG",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY4NzFf",
           "titleMoz": "i24 NEWS HB"
         },
         {
@@ -91,7 +91,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "604",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDM5OTNf/franceinfo.png",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY4OTdf",
           "titleMoz": "FRANCE INFOS"
         },
         {
@@ -101,7 +101,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "614",
-          "thumbMoz": "https://od.lk/s/NDZfNTMxNjYxNDFf/sabcnews.jpg",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY4OThf",
           "titleMoz": "SABC NEWS"
         },
         {
@@ -211,7 +211,7 @@
           ],
           "subtitleMoz": "All Channel",
           "numberMoz": "607",
-          "thumbMoz": "https://od.lk/s/NDZfODIxNDQwNDZf/laune.jpeg",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY5MDhf",
           "titleMoz": "LA UNE HD"
         },
         {
@@ -221,7 +221,7 @@
           ],
           "subtitleMoz": "All Channels",
           "numberMoz": "626",
-          "thumbMoz": "https://od.lk/s/NDZfODEzNjQzNjlf/bxl1.png",
+          "thumbMoz": "https://od.lk/thumb/NDNfNDcxMTY5MDdf",
           "titleMoz": "BXL 1"
         },
         {
