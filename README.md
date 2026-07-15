@@ -343,6 +343,24 @@
           "numberMoz": "636",
           "thumbMoz": "https://od.lk/s/NDZfODk0MjUyNjBf/afronewstv.jpg",
           "titleMoz": "AFRONEWS"
+        },
+        {
+          "descriptionMoz": "BBC World News d'informations international et autres.",
+          "sourceMoz": [
+            "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png",
+          "titleMoz": "BBC WORLDS NEWS / ENGLISH"
+        },
+          {
+          "descriptionMoz": "BBC World News d'informations international et autres.",
+          "sourceMoz": [
+            "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
+          ],
+          "subtitleMoz": "By Channel",
+          "thumbMoz": "https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png",
+          "titleMoz": "BBC NEWS"
         }
       ]
     }
@@ -485,15 +503,7 @@
           "thumbMoz": "https://od.lk/s/M18yODMzMTI0NTJf/cnbc.gif",
           "titleMoz": "MSNBC"
         },
-        {
-          "descriptionMoz": "BBC World News d'informations international et autres.",
-          "sourceMoz": [
-            "http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png",
-          "titleMoz": "BBC WORLDS NEWS / ENGLISH"
-        },
+       
         {
           "descriptionMoz": "CNBC est une chaîne télévisée d'informations international et autres.",
           "sourceMoz": [
@@ -530,15 +540,7 @@
           "thumbMoz": "https://od.lk/s/M18yODMwNjc4MzFf/africatwentyfour.jpg",
           "titleMoz": "CNN"
         },
-        {
-          "descriptionMoz": "BBC World News d'informations international et autres.",
-          "sourceMoz": [
-            "http://185.59.221.131:8081/live/bbcnews/playlist.m3u8"
-          ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png",
-          "titleMoz": "BBC NEWS"
-        },
+      
         {
           "descriptionMoz": "EURONEWS est une chaîne télévisée d'informations international et autres.",
           "sourceMoz": [
