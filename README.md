@@ -349,16 +349,18 @@
           "sourceMoz": [
             "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8"
           ],
-          "subtitleMoz": "By Channel",
-          "thumbMoz": "https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png",
-          "titleMoz": "BBC WORLDS NEWS / ENGLISH"
+          "subtitleMoz": "All Channel",
+           "numberMoz": "636",
+           "thumbMoz": "https://od.lk/s/M18yODA3NzY0NTRf/bbcwoelds.png",
+           "titleMoz": "BBC WORLDS NEWS / ENGLISH"
         },
-          {
+        {
           "descriptionMoz": "BBC World News d'informations international et autres.",
           "sourceMoz": [
             "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
           ],
-          "subtitleMoz": "By Channel",
+          "subtitleMoz": "All Channel",
+           "numberMoz": "636",
           "thumbMoz": "https://od.lk/s/M18yOTQwNjUwMjlf/bbcnews.png",
           "titleMoz": "BBC NEWS"
         }
